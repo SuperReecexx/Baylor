@@ -1,0 +1,47 @@
+{
+    "room":                     "Baylor Academy ",
+    "author":                   "xReece",
+    "icon":                     "https://i.imgur.com/9dNWaOd.png",
+    "css":                      "https://nightbloo.github.io/plug/main.css",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#FF0000",
+        "ambassador":           "#FF0000",
+        "host":                 "#FF0000",
+        "cohost":               "#FF0000",
+        "manager":              "#FF495F",
+        "bouncer":              "#FF3DB0",
+        "rdj":                  "#FF3DB0",
+        "subscriber":           null,
+	"silversubscriber":     "#FF3DB0",
+        "friend":               "#5CFF66",
+        "user":                 "#00AAAA"
+    },
+    "images": {
+        "background":           "https://res.cloudinary.com/hhberclba/image/upload/v1459085713/zmvshrfcrrqs2tsyc2c2.jpg",
+        "playback":             "https://nightbloo.github.io/plug/background/nb3DJvideo.png",
+        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":                 "https://i.imgur.com/c2mAcvM.png",
+        "cohost":               "https://i.imgur.com/0JdJMJ1.png",
+        "manager":              "https://i.imgur.com/aFxPPP0.png",
+        "bouncer":              "https://i.imgur.com/m2p46zR.png",
+        "rdj":                  "https://i.imgur.com/Gckb6lW.png",
+        "subscriber":           null,
+	"silversubscriber":	null
+    },
+    "autocomplete": [],
+    "emotes": {
+
+	"mineplex_symbol":	"https://i.imgur.com/z2L6ACl.png"
+    }
+}
