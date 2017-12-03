@@ -2,7 +2,7 @@
     "room":                     "Baylor Academy ",
     "author":                   "xReece",
     "icon":                     "https://i.imgur.com/9dNWaOd.png",
-    "css":                      "https://nightbloo.github.io/plug/main.css",
+    "css":                      "https://raw.githubusercontent.com/SuperReecexx/Baylor/master/badj.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
