@@ -27,8 +27,8 @@
         "user":                 "#00AAAA"
     },
     "images": {
-        "background":           "https://res.cloudinary.com/hhberclba/image/upload/v1459085713/zmvshrfcrrqs2tsyc2c2.jpg",
-        "playback":             "https://nightbloo.github.io/plug/background/nb3DJvideo.png",
+        "background":           "https://i.imgur.com/wCO5q4W.jpg",
+        "playback":             "https://i.imgur.com/mTR874Fg.png",
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "host":                 "https://i.imgur.com/c2mAcvM.png",
@@ -41,7 +41,6 @@
     },
     "autocomplete": [],
     "emotes": {
-
-	"mineplex_symbol":	"https://i.imgur.com/z2L6ACl.png"
+	"ba":	"https://i.imgur.com/z2L6ACl.png"
     }
 }
